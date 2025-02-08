@@ -1,0 +1,28 @@
+1 Artists Guild 19.513603521211873
+2 Book Club 6.511787078146772
+3 Comedy House 5.564823431685508
+4 DIY Workshop 3.502298264170502
+5 Nicola Tesla -
+6 Education Forum 6.156272023486564
+7 Fashion World 5.9549122366983775
+8 Fit Club 4.577993749762217
+9 Albert Einstein -
+10 Gamers Zone 2.8845415345962335
+11 Gourmet Station 11.862733859952987
+12 Health Care 39.24845851473867
+13 History Channel 4.454044753945311
+14 Lifestyle Channel 9.02624095491337
+15 Movie Critics 11.576623566875964
+16 Music Avenue 3.688967394217509
+17 Nature Lovers 5.360093203156848
+18 News Network 6.815684068738081
+19 Science Network 4.419840901991194
+20 Sports Network 4.591650851768354
+21 Tech Central 5.403952789060679
+22 Travelers Hub 2.666588314430751
+23 Barry Allen -
+24 Jaimin Dave -
+25 Jim Browning 0.0
+26 Amin -
+27 Akshay -
+28 Sir Sherwin Francis 0.0
